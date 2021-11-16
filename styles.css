@@ -1,0 +1,9 @@
+/* styles.css */
+h1 {color: white;
+    background-color: black;
+    font-size: 32px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+ul {color: black;}
